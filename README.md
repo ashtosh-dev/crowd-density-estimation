@@ -90,13 +90,6 @@ python src/detection/csrnet_count.py \
 
 See `requirements.txt` for full dependencies.
 
-## 📖 Documentation
-
-- [Implementation Plan](docs/implementation_plan.md) - Detailed technical approach
-- [Video Analysis](docs/video_analysis.md) - Performance analysis
-- [Model Comparison](docs/model_comparison.md) - Benchmark results
-
-
 
 ## 🤝 Contributing
 
